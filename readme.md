@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/lucianomarchezan">
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoMarchezan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoMarchezan&layout=compact&theme=dark&hide=faust,xslt"/> -->
+!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoMarchezan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoMarchezan&layout=compact&theme=dark&hide=faust,xslt"/> 
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
